@@ -1,3 +1,11 @@
+## How to run my code 
+1. Clone repository https://github.com/Booncho/2024_programming-challenges-1.git
+2. cd C:\Your-Path\Your-Path\Desktop\ProgramTest\2024_programming-challenges-1\submissions\Booncho
+3. Click Terminal and select to command promt and type py Test1.py 
+
+
+
+
 # 2024_programming-challenges-1
 Programming challenges for internship applicants - 1
 
